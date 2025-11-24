@@ -83,8 +83,6 @@ The referrer parameter is simply an EOA address that you control, making it stra
 
 **Berachain:** [**0x6352a56caadC4F1E25CD6c75970Fa768A3304e64**](https://berascan.com/address/0x6352a56caadc4f1e25cd6c75970fa768a3304e64)
 
-**Monad Testnet:** [**0x6352a56caadc4f1e25cd6c75970fa768a3304e64**](https://monad-testnet.socialscan.io/address/0x6352a56caadc4f1e25cd6c75970fa768a3304e64)
-
 **UniChain:** [**0x6352a56caadC4F1E25CD6c75970Fa768A3304e64**](https://uniscan.xyz/address/0x6352a56caadc4f1e25cd6c75970fa768a3304e64)
 
 **Flare:** [**0x6352a56caadC4F1E25CD6c75970Fa768A3304e64**](https://flare-explorer.flare.network/address/0x6352a56caadC4F1E25CD6c75970Fa768A3304e64)
